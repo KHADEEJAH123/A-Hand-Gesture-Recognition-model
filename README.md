@@ -139,7 +139,7 @@ The model using "LSTM" is as follows. <br>Please change "use_lstm = False" to "T
 # Reference
 * [MediaPipe](https://mediapipe.dev/)
 
-# HELPFUL
+# Helpful
 Ivan
 
 # License 
